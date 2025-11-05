@@ -4,8 +4,6 @@ A collection of **beginner-friendly Machine Learning projects** designed to unde
 
 Each project focuses on a different **type of ML algorithms**.
 
----
-
 ## Overview
 
 This repository contains multiple **mini ML projects** built using **Python** and popular libraries like **scikit-learn**, **pandas**, and **numpy**.
@@ -14,8 +12,6 @@ These projects are ideal for:
 - Students learning ML basics  
 - Building a strong **GitHub portfolio for placements**  
 - Practicing ML concepts and interview preparation  
-
----
 
 ##  List of Projects
 
@@ -29,16 +25,12 @@ These projects are ideal for:
 | 6 | Wine Quality Prediction | Classification | Random Forest | Predicts wine quality based on chemical properties. |
 | 7 | Diabetes Prediction | Classification | Logistic Regression | Predicts diabetes likelihood based on patient medical data. |
 
----
-
 ## Technologies Used
 - **Python 3**  
 - **Scikit-learn**  
 - **NumPy**  
 - **Pandas**  
 - **Matplotlib**
-
----
 
 ## Concepts Covered
 - Data Preprocessing  
